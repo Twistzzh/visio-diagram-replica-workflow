@@ -143,7 +143,6 @@ scripts\stop_visio_proxy.bat
 ### 示例 2：科研流程图复刻
 
 原始参考图：
-![Uploading image.png…]()
 
 
 生成后的 Visio 预览：
