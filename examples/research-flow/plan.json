@@ -1,0 +1,112 @@
+{
+  "page": {
+    "name": "Research Flow Replica",
+    "widthPx": 784,
+    "heightPx": 901,
+    "scalePxPerInch": 100
+  },
+  "shapes": [
+    {
+      "type": "rect",
+      "x1": 28,
+      "y1": 20,
+      "x2": 756,
+      "y2": 315,
+      "style": { "fill": "RGB(255,255,255)", "line": "RGB(0,0,0)", "weight": 2.2, "dash": true }
+    },
+    {
+      "type": "rect",
+      "x1": 28,
+      "y1": 326,
+      "x2": 756,
+      "y2": 520,
+      "style": { "fill": "RGB(255,255,255)", "line": "RGB(55,150,255)", "weight": 2.2, "dash": true }
+    },
+    {
+      "type": "rect",
+      "x1": 28,
+      "y1": 530,
+      "x2": 756,
+      "y2": 844,
+      "style": { "fill": "RGB(255,255,255)", "line": "RGB(235,40,40)", "weight": 2.2, "dash": true }
+    },
+
+    { "type": "text", "x1": 48, "y1": 28, "x2": 250, "y2": 140, "text": "The first step\nObjective\nevaluation of\nnoise of HPMSM", "style": { "fontSize": 14, "bold": true, "textColor": "RGB(0,0,0)", "align": 0 } },
+    { "type": "text", "x1": 584, "y1": 334, "x2": 738, "y2": 455, "text": "The third Step\nSound quality\nevaluation model\nof HPMSM and the\ninfluence weight\nanalysis", "style": { "fontSize": 12, "bold": true, "textColor": "RGB(0,0,0)", "align": 1 } },
+    { "type": "text", "x1": 48, "y1": 538, "x2": 285, "y2": 602, "text": "The Second Step\nSubjective evaluation of\nnoise of HPMSM", "style": { "fontSize": 13, "bold": true, "textColor": "RGB(0,0,0)", "align": 0 } },
+
+    { "type": "rect", "x1": 304, "y1": 28, "x2": 472, "y2": 88, "text": "Noise test of\nHPMSM", "style": { "fill": "RGB(255,255,255)", "line": "RGB(0,0,0)", "weight": 2.0, "fontSize": 10, "bold": true, "align": 1 } },
+    { "type": "rect", "x1": 274, "y1": 116, "x2": 494, "y2": 188, "text": "Noise samples of\nHPMSM", "style": { "fill": "RGB(255,255,255)", "line": "RGB(0,0,0)", "weight": 2.0, "fontSize": 10, "bold": true, "align": 1 } },
+    { "type": "line", "x1": 388, "y1": 88, "x2": 388, "y2": 116, "arrow": "end", "style": { "line": "RGB(0,0,0)", "weight": 1.4 } },
+    { "type": "text", "x1": 392, "y1": 96, "x2": 485, "y2": 118, "text": "Collecting", "style": { "fontSize": 8.0, "bold": true, "textColor": "RGB(70,70,70)", "align": 0 } },
+    { "type": "text", "x1": 530, "y1": 95, "x2": 716, "y2": 125, "text": "Providing Noise samples for\nsubjective evaluation test", "style": { "fontSize": 8.5, "bold": true, "textColor": "RGB(0,0,0)", "align": 1 } },
+
+    { "type": "line", "x1": 494, "y1": 152, "x2": 748, "y2": 152, "style": { "line": "RGB(235,40,40)", "weight": 1.8 } },
+    { "type": "polyline", "points": [[748,152],[748,835],[730,835]], "style": { "line": "RGB(235,40,40)", "weight": 1.8 }, "arrow": "end" },
+
+    { "type": "line", "x1": 388, "y1": 188, "x2": 388, "y2": 230, "arrow": "end", "style": { "line": "RGB(0,0,0)", "weight": 1.5 } },
+    { "type": "text", "x1": 392, "y1": 202, "x2": 488, "y2": 224, "text": "Calculating", "style": { "fontSize": 8.0, "bold": true, "textColor": "RGB(70,70,70)", "align": 0 } },
+
+    { "type": "line", "x1": 92, "y1": 205, "x2": 664, "y2": 205, "style": { "line": "RGB(0,0,0)", "weight": 1.2 } },
+    { "type": "line", "x1": 92, "y1": 205, "x2": 92, "y2": 230, "arrow": "end", "style": { "line": "RGB(0,0,0)", "weight": 1.1 } },
+    { "type": "line", "x1": 204, "y1": 205, "x2": 204, "y2": 230, "arrow": "end", "style": { "line": "RGB(0,0,0)", "weight": 1.1 } },
+    { "type": "line", "x1": 296, "y1": 205, "x2": 296, "y2": 230, "arrow": "end", "style": { "line": "RGB(0,0,0)", "weight": 1.1 } },
+    { "type": "line", "x1": 388, "y1": 205, "x2": 388, "y2": 230, "arrow": "end", "style": { "line": "RGB(0,0,0)", "weight": 1.1 } },
+    { "type": "line", "x1": 480, "y1": 205, "x2": 480, "y2": 230, "arrow": "end", "style": { "line": "RGB(0,0,0)", "weight": 1.1 } },
+    { "type": "line", "x1": 572, "y1": 205, "x2": 572, "y2": 230, "arrow": "end", "style": { "line": "RGB(0,0,0)", "weight": 1.1 } },
+    { "type": "line", "x1": 664, "y1": 205, "x2": 664, "y2": 230, "arrow": "end", "style": { "line": "RGB(0,0,0)", "weight": 1.1 } },
+
+    { "type": "rect", "x1": 46, "y1": 230, "x2": 145, "y2": 284, "text": "Loudness", "style": { "fill": "RGB(255,255,255)", "line": "RGB(0,0,0)", "weight": 1.6, "fontSize": 9.5, "bold": true, "align": 1 } },
+    { "type": "rect", "x1": 145, "y1": 230, "x2": 244, "y2": 284, "text": "Roughness", "style": { "fill": "RGB(255,255,255)", "line": "RGB(0,0,0)", "weight": 1.6, "fontSize": 9.5, "bold": true, "align": 1 } },
+    { "type": "rect", "x1": 244, "y1": 230, "x2": 343, "y2": 284, "text": "A-W\nSPL", "style": { "fill": "RGB(255,255,255)", "line": "RGB(0,0,0)", "weight": 1.6, "fontSize": 9.5, "bold": true, "align": 1 } },
+    { "type": "rect", "x1": 343, "y1": 230, "x2": 442, "y2": 284, "text": "Tone", "style": { "fill": "RGB(255,255,255)", "line": "RGB(0,0,0)", "weight": 1.6, "fontSize": 9.5, "bold": true, "align": 1 } },
+    { "type": "rect", "x1": 442, "y1": 230, "x2": 541, "y2": 284, "text": "Sharpness", "style": { "fill": "RGB(255,255,255)", "line": "RGB(0,0,0)", "weight": 1.6, "fontSize": 9.5, "bold": true, "align": 1 } },
+    { "type": "rect", "x1": 541, "y1": 230, "x2": 640, "y2": 284, "text": "AI", "style": { "fill": "RGB(255,255,255)", "line": "RGB(0,0,0)", "weight": 1.6, "fontSize": 9.5, "bold": true, "align": 1 } },
+    { "type": "rect", "x1": 640, "y1": 230, "x2": 739, "y2": 284, "text": "fluctuation", "style": { "fill": "RGB(255,255,255)", "line": "RGB(0,0,0)", "weight": 1.6, "fontSize": 9.0, "bold": true, "align": 1 } },
+
+    { "type": "line", "x1": 98, "y1": 284, "x2": 658, "y2": 284, "style": { "line": "RGB(0,0,0)", "weight": 1.2 } },
+    { "type": "line", "x1": 378, "y1": 284, "x2": 378, "y2": 326, "arrow": "end", "style": { "line": "RGB(0,0,0)", "weight": 1.5 } },
+    { "type": "text", "x1": 386, "y1": 324, "x2": 535, "y2": 342, "text": "Seven input variables", "style": { "fontSize": 8.0, "bold": true, "textColor": "RGB(55,150,255)", "align": 0 } },
+
+    { "type": "rect", "x1": 44, "y1": 350, "x2": 224, "y2": 430, "text": "The relative\nimportance of seven\ninput variables on\nthe output variable", "style": { "fill": "RGB(255,255,255)", "line": "RGB(55,150,255)", "weight": 1.8, "fontSize": 8.8, "bold": true, "align": 1 } },
+    { "type": "rect", "x1": 302, "y1": 350, "x2": 491, "y2": 430, "text": "BP neural network\nmodel of sound\nquality evaluation\nof HPMSM", "style": { "fill": "RGB(255,255,255)", "line": "RGB(55,150,255)", "weight": 1.8, "fontSize": 8.8, "bold": true, "align": 1 } },
+    { "type": "line", "x1": 302, "y1": 390, "x2": 224, "y2": 390, "arrow": "end", "style": { "line": "RGB(55,150,255)", "weight": 1.6 } },
+    { "type": "text", "x1": 232, "y1": 394, "x2": 316, "y2": 412, "text": "BP NNM\noptimized", "style": { "fontSize": 8.0, "bold": true, "textColor": "RGB(0,0,0)", "align": 0 } },
+
+    { "type": "line", "x1": 491, "y1": 390, "x2": 566, "y2": 390, "arrow": "end", "style": { "line": "RGB(55,150,255)", "weight": 1.6 } },
+    { "type": "text", "x1": 494, "y1": 364, "x2": 586, "y2": 386, "text": "Optimizing", "style": { "fontSize": 7.5, "bold": true, "textColor": "RGB(0,0,0)", "align": 1 } },
+
+    { "type": "rect", "x1": 333, "y1": 453, "x2": 453, "y2": 495, "text": "SA (Calculated)", "style": { "fill": "RGB(255,255,255)", "line": "RGB(55,150,255)", "weight": 1.8, "fontSize": 9.2, "bold": true, "align": 1 } },
+    { "type": "line", "x1": 396, "y1": 430, "x2": 396, "y2": 453, "arrow": "end", "style": { "line": "RGB(55,150,255)", "weight": 1.6 } },
+    { "type": "text", "x1": 404, "y1": 433, "x2": 532, "y2": 450, "text": "One output variable", "style": { "fontSize": 7.8, "bold": true, "textColor": "RGB(55,150,255)", "align": 0 } },
+
+    { "type": "polyline", "points": [[507,454],[565,454],[621,477],[565,500],[507,500],[451,477],[507,454]], "style": { "line": "RGB(55,150,255)", "weight": 1.8, "fill": "RGB(255,255,255)" } },
+    { "type": "text", "x1": 520, "y1": 465, "x2": 611, "y2": 488, "text": "Error\nanalysis", "style": { "fontSize": 8.8, "bold": true, "textColor": "RGB(0,0,0)", "align": 1 } },
+    { "type": "line", "x1": 453, "y1": 474, "x2": 507, "y2": 474, "arrow": "end", "style": { "line": "RGB(55,150,255)", "weight": 1.6 } },
+
+    { "type": "rect", "x1": 293, "y1": 551, "x2": 421, "y2": 595, "text": "SA\n(Tested)", "style": { "fill": "RGB(255,255,255)", "line": "RGB(235,40,40)", "weight": 1.8, "fontSize": 9.5, "bold": true, "align": 1 } },
+    { "type": "polyline", "points": [[303,634],[391,608],[479,634],[391,660],[303,634]], "style": { "line": "RGB(235,40,40)", "weight": 1.8, "fill": "RGB(255,255,255)" } },
+    { "type": "text", "x1": 332, "y1": 622, "x2": 451, "y2": 647, "text": "Data\nchecking", "style": { "fontSize": 8.8, "bold": true, "textColor": "RGB(0,0,0)", "align": 1 } },
+    { "type": "rect", "x1": 309, "y1": 676, "x2": 474, "y2": 731, "text": "Subjective\nevaluation test of\nnoise of HPMSM", "style": { "fill": "RGB(255,255,255)", "line": "RGB(235,40,40)", "weight": 1.8, "fontSize": 8.7, "bold": true, "align": 1 } },
+    { "type": "line", "x1": 391, "y1": 676, "x2": 391, "y2": 660, "arrow": "end", "style": { "line": "RGB(235,40,40)", "weight": 1.5 } },
+    { "type": "line", "x1": 391, "y1": 608, "x2": 391, "y2": 595, "arrow": "end", "style": { "line": "RGB(235,40,40)", "weight": 1.5 } },
+
+    { "type": "oval", "x1": 48, "y1": 605, "x2": 251, "y2": 688, "text": "Spearman's rank\ncorrelation\ncoefficient", "style": { "fill": "RGB(255,255,255)", "line": "RGB(235,40,40)", "weight": 1.8, "fontSize": 8.8, "bold": true } },
+    { "type": "oval", "x1": 552, "y1": 605, "x2": 734, "y2": 688, "text": "Kendall\nconcordance\ncoefficient", "style": { "fill": "RGB(255,255,255)", "line": "RGB(235,40,40)", "weight": 1.8, "fontSize": 8.8, "bold": true } },
+    { "type": "line", "x1": 251, "y1": 646, "x2": 303, "y2": 646, "arrow": "end", "style": { "line": "RGB(235,40,40)", "weight": 1.6 } },
+    { "type": "line", "x1": 552, "y1": 646, "x2": 479, "y2": 646, "arrow": "end", "style": { "line": "RGB(235,40,40)", "weight": 1.6 } },
+
+    { "type": "rect", "x1": 62, "y1": 785, "x2": 226, "y2": 834, "text": "Design of\nsubjective\nevaluation method", "style": { "fill": "RGB(255,255,255)", "line": "RGB(235,40,40)", "weight": 1.8, "fontSize": 8.3, "bold": true, "align": 1 } },
+    { "type": "rect", "x1": 226, "y1": 785, "x2": 391, "y2": 834, "text": "Selecting and\ntraining evaluation\nsubject", "style": { "fill": "RGB(255,255,255)", "line": "RGB(235,40,40)", "weight": 1.8, "fontSize": 8.3, "bold": true, "align": 1 } },
+    { "type": "rect", "x1": 391, "y1": 785, "x2": 556, "y2": 834, "text": "Preparing for\nHearing environment\nand test equipment", "style": { "fill": "RGB(255,255,255)", "line": "RGB(235,40,40)", "weight": 1.8, "fontSize": 8.0, "bold": true, "align": 1 } },
+    { "type": "rect", "x1": 556, "y1": 785, "x2": 721, "y2": 834, "text": "Preprocessing\nnoise samples", "style": { "fill": "RGB(255,255,255)", "line": "RGB(235,40,40)", "weight": 1.8, "fontSize": 8.3, "bold": true, "align": 1 } },
+
+    { "type": "line", "x1": 391, "y1": 785, "x2": 391, "y2": 731, "arrow": "end", "style": { "line": "RGB(235,40,40)", "weight": 1.5 } },
+    { "type": "line", "x1": 640, "y1": 785, "x2": 730, "y2": 785, "style": { "line": "RGB(235,40,40)", "weight": 1.5 } },
+
+    { "type": "polyline", "points": [[722,785],[748,785],[748,152]], "style": { "line": "RGB(235,40,40)", "weight": 1.8 } },
+    { "type": "polyline", "points": [[565,454],[565,533],[520,533],[520,550]], "style": { "line": "RGB(235,40,40)", "weight": 1.8 }, "arrow": "end" },
+
+    { "type": "line", "x1": 378, "y1": 315, "x2": 378, "y2": 349, "arrow": "end", "style": { "line": "RGB(0,0,0)", "weight": 1.5 } }
+  ]
+}
