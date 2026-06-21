@@ -144,6 +144,7 @@ scripts\stop_visio_proxy.bat
 
 原始参考图：
 
+![科研流程图原图](examples/research-flow/reference.png)
 
 生成后的 Visio 预览：
 
